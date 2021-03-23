@@ -42,6 +42,6 @@ If you have any idea on how to make the code more efficiant please tell me about
 
 ## Author
 
-Authored and maintained by fekt.
+Authored and maintained by vance
 
 > GitHub
