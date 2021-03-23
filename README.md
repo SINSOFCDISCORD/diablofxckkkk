@@ -44,4 +44,4 @@ If you have any idea on how to make the code more efficiant please tell me about
 
 Authored and maintained by fekt.
 
-> GitHub [@fekt](https://github.com/fekt)
+> GitHub
