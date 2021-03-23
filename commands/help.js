@@ -19,7 +19,7 @@ module.exports = {
             }
             if (!message.guild) {
               const embed = new Discord.MessageEmbed()
-              .setAuthor(client.user.username, client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }), 'https://github.com/fekt/nekos.life-discord-bot')
+              .setAuthor(client.user.username, client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }), 'hhttps://github.com/SINSOFCDISCORD/diablofxckkkk')
               .setThumbnail(client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 1024 }))
               .setTitle('Help')
               .setColor('7289da')
